@@ -10,3 +10,4 @@ Após digitar o nome título, basta tocar no botão "Consultar Valor" que ele re
 
 ## Images
 
+<img src="https://github.com/raferreira96/consulta_bolsa/blob/main/docs/imgs/consulta_bolsa.png" width="250" height="444" alt="consulta_bolsa"> <img src="https://github.com/raferreira96/consulta_bolsa/blob/main/docs/imgs/consulta_bolsa_used.png" width="250" height="444" alt="consulta_bolsa_used">
